@@ -39,3 +39,14 @@ h1 {
              0 10px 10px rgba(0,0,0,.2),
              0 20px 20px rgba(0,0,0,.15);
 }
+
+button {
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  margin: 0px auto;
+  font-family: "Lalezar";
+  font-size: 3rem;
+  background-color: #ff46b3;
+  border-radius: 8px;
+}
